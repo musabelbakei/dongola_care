@@ -1,0 +1,414 @@
+{
+  "last_updated": "2026-07-20T08:03:04Z",
+  "facilities": [
+    {
+      "facility_id": 1,
+      "facility_name": "معمل الامام الحديث",
+      "facility_type": "معمل",
+      "phone": "0129047600",
+      "working_hours": "8:00ص - 3:00م",
+      "sector": "خاص",
+      "neighborhood": "الحي الأوسط",
+      "street": "غرب صيدلية الملتقى",
+      "landmark": "جوار مكتبة سانتود",
+      "latitude": 19.1722,
+      "longitude": 30.4734,
+      "image_path": "assets/images/1.jpeg",
+      "services": [
+        "فحص وظائف الكبد",
+        "فحص الملاريا",
+        "فحص وظائف الكلى",
+        "فحص الدم (CBC)"
+      ],
+      "specialties": [
+        "معمل فحوصات",
+        "قسم الاسنان",
+        "قسم النساء والتوليد"
+      ]
+    },
+    {
+      "facility_id": 2,
+      "facility_name": "صيدلية علياء",
+      "facility_type": "صيدلية",
+      "phone": "0960333144",
+      "working_hours": "24 ساعة",
+      "sector": "خاص",
+      "neighborhood": "الحي الأوسط",
+      "street": "تقاطع المستشفى التخصصي والعسكري",
+      "landmark": "قرب التقاطع الرئيسي",
+      "latitude": 19.1719,
+      "longitude": 30.4739,
+      "image_path": "assets/images/2.jpeg",
+      "services": [
+        "أدوية طبية",
+        "مستحضرات تجميل",
+        "أدوية بيطرية"
+      ],
+      "specialties": [
+        "صيدلية"
+      ]
+    },
+    {
+      "facility_id": 3,
+      "facility_name": "مجمع اللؤلؤة الطبي",
+      "facility_type": "مجمع طبي",
+      "phone": "0912805237",
+      "working_hours": "8:00ص - 3:00م ، 6:00م - 10:00م",
+      "sector": "خاص",
+      "neighborhood": "الحي الأوسط",
+      "street": "تقاطع العسكري",
+      "landmark": "غرب شركة الخندقاوي",
+      "latitude": 19.1715,
+      "longitude": 30.4745,
+      "image_path": "assets/images/3.jpeg",
+      "services": [
+        "فحص الدم (CBC)",
+        "موجات صوتية دبلر ملون",
+        "رسم قلب ديجيتال",
+        "فحص السكر والتراكمي"
+      ],
+      "specialties": [
+        "عيادات تخصصية",
+        "قسم الأطفال",
+        "صيدلية"
+      ]
+    },
+    {
+      "facility_id": 4,
+      "facility_name": "مركز دنقلا التشخيصي الحديث",
+      "facility_type": "مركز تشخيصي",
+      "phone": "0211823610",
+      "working_hours": "24 ساعة",
+      "sector": "خاص",
+      "neighborhood": "حي السوق",
+      "street": "تقاطع الملتقى",
+      "landmark": "قرب السوق الرئيسي",
+      "latitude": 19.1731,
+      "longitude": 30.4722,
+      "image_path": "assets/images/4.jpeg",
+      "services": [
+        "فحص وظائف الكبد",
+        "فحص الدم (CBC)",
+        "أشعة سينية (X-Ray)",
+        "أشعة مقطعية (CT Scan)"
+      ],
+      "specialties": [
+        "معمل فحوصات",
+        "عيادات تخصصية"
+      ]
+    },
+    {
+      "facility_id": 5,
+      "facility_name": "مستشفى فاطمة (الدقة) التخصصي",
+      "facility_type": "مستشفى",
+      "phone": "0123955611",
+      "working_hours": "24 ساعة",
+      "sector": "خاص",
+      "neighborhood": "حي أقجة فوق",
+      "street": "زلط كلية التقانة",
+      "landmark": "قرب كلية التقانة والعلوم الصحية",
+      "latitude": 19.1558,
+      "longitude": 30.4852,
+      "image_path": "assets/images/5.jpeg",
+      "services": [
+        "موجات صوتية دبلر ملون",
+        "فحص هرمونات",
+        "حضانة أطفال حديثي الولادة",
+        "عمليات جراحية"
+      ],
+      "specialties": [
+        "قسم النساء والتوليد",
+        "عيادات تخصصية",
+        "الجراحة العامة"
+      ]
+    },
+    {
+      "facility_id": 6,
+      "facility_name": "صيدلية دواء",
+      "facility_type": "صيدلية",
+      "phone": "0111245600",
+      "working_hours": "24 ساعة",
+      "sector": "خاص",
+      "neighborhood": "حي الدرجة الثانية",
+      "street": "شارع الفنادق",
+      "landmark": "جوار فندق جوهرة ريفان",
+      "latitude": 19.1642,
+      "longitude": 30.4695,
+      "image_path": "assets/images/6.jpeg",
+      "services": [
+        "أدوية طبية",
+        "مستحضرات تجميل"
+      ],
+      "specialties": [
+        "صيدلية"
+      ]
+    },
+    {
+      "facility_id": 7,
+      "facility_name": "صيدلية مواهب",
+      "facility_type": "صيدلية",
+      "phone": "0912345678",
+      "working_hours": "24 ساعة",
+      "sector": "خاص",
+      "neighborhood": "حي الامتداد",
+      "street": "شارع المستشفى التخصصي",
+      "landmark": "قرب المستشفى التخصصي",
+      "latitude": 19.1724,
+      "longitude": 30.4731,
+      "image_path": "assets/images/7.jpeg",
+      "services": [
+        "أدوية طبية",
+        "مستحضرات تجميل"
+      ],
+      "specialties": [
+        "صيدلية"
+      ]
+    },
+    {
+      "facility_id": 8,
+      "facility_name": "معمل المجتبى الطبي الحديث",
+      "facility_type": "معمل",
+      "phone": "0998765432",
+      "working_hours": "8:00ص - 10:00م",
+      "sector": "خاص",
+      "neighborhood": "حي الامتداد",
+      "street": "شارع المستشفى",
+      "landmark": "جوار المستشفى التخصصي",
+      "latitude": 19.1726,
+      "longitude": 30.4729,
+      "image_path": "assets/images/8.jpeg",
+      "services": [
+        "فحص وظائف الكبد",
+        "فحص الملاريا",
+        "فحص وظائف الكلى",
+        "فحص الدم (CBC)",
+        "فحص السكر والتراكمي"
+      ],
+      "specialties": [
+        "معمل فحوصات"
+      ]
+    },
+    {
+      "facility_id": 9,
+      "facility_name": "مستوصف د. أبوبكر للأطفال",
+      "facility_type": "مستوصف",
+      "phone": "0122334455",
+      "working_hours": "8:00ص - 4:00م",
+      "sector": "خاص",
+      "neighborhood": "حي الامتداد",
+      "street": "شارع المستشفى",
+      "landmark": "بجوار صيدلية مواهب",
+      "latitude": 19.1727,
+      "longitude": 30.4727,
+      "image_path": "assets/images/9.jpeg",
+      "services": [
+        "فحص الدم (CBC)",
+        "فحص السكر والتراكمي"
+      ],
+      "specialties": [
+        "قسم الأطفال"
+      ]
+    },
+    {
+      "facility_id": 10,
+      "facility_name": "مركز ارتدي شمال الصحي",
+      "facility_type": "مركز صحي",
+      "phone": "0112233445",
+      "working_hours": "8:00ص - 2:00م",
+      "sector": "حكومي",
+      "neighborhood": "ارتدي شمال",
+      "street": "الشارع العام",
+      "landmark": "جوار مدرسة الزهراء الأساسية للبنات",
+      "latitude": 19.1945,
+      "longitude": 30.4581,
+      "image_path": "assets/images/10.jpeg",
+      "services": [
+        "فحص الملاريا",
+        "فحص الدم (CBC)",
+        "تحليل البول والبراز"
+      ],
+      "specialties": [
+        "عيادات تخصصية"
+      ]
+    },
+    {
+      "facility_id": 11,
+      "facility_name": "صيدلية سلسبيلا",
+      "facility_type": "صيدلية",
+      "phone": "0922334455",
+      "working_hours": "24 ساعة",
+      "sector": "خاص",
+      "neighborhood": "حي الامتداد",
+      "street": "شارع المستشفى",
+      "landmark": "قرب معمل المجتبى",
+      "latitude": 19.1728,
+      "longitude": 30.4725,
+      "image_path": "assets/images/11.jpeg",
+      "services": [
+        "أدوية طبية",
+        "مستحضرات تجميل"
+      ],
+      "specialties": [
+        "صيدلية"
+      ]
+    },
+    {
+      "facility_id": 12,
+      "facility_name": "مستشفى دنقلا التخصصي",
+      "facility_type": "مستشفى",
+      "phone": "0151122334",
+      "working_hours": "24 ساعة",
+      "sector": "حكومي",
+      "neighborhood": "حي الامتداد",
+      "street": "شارع المستشفى الرئيسي",
+      "landmark": "وسط المدينة الجغرافي",
+      "latitude": 19.1725,
+      "longitude": 30.4732,
+      "image_path": "assets/images/12.jpeg",
+      "services": [
+        "عمليات جراحية",
+        "فحص الغازات في الدم",
+        "فحص مؤشر الالتهاب"
+      ],
+      "specialties": [
+        "الجراحة العامة",
+        "العناية الوسطية والمكثفة"
+      ]
+    },
+    {
+      "facility_id": 13,
+      "facility_name": "مجمع عيادات السليماني التخصصي",
+      "facility_type": "مجمع طبي",
+      "phone": "0966778899",
+      "working_hours": "8:00ص - 8:00م",
+      "sector": "خاص",
+      "neighborhood": "حي المطار",
+      "street": "شارع المطار",
+      "landmark": "قرب مكتب مرور الولاية الشمالية",
+      "latitude": 19.1594,
+      "longitude": 30.4718,
+      "image_path": "assets/images/13.jpeg",
+      "services": [
+        "فحص الدم (CBC)",
+        "فحص السكر والتراكمي"
+      ],
+      "specialties": [
+        "قسم الاسنان",
+        "عيادات تخصصية"
+      ]
+    },
+    {
+      "facility_id": 14,
+      "facility_name": "مستوصف الدوحة الطبي",
+      "facility_type": "مستوصف",
+      "phone": "0122998877",
+      "working_hours": "24 ساعة",
+      "sector": "خاص",
+      "neighborhood": "حي الدرجة الثالثة",
+      "street": "شارع الردمية",
+      "landmark": "قرب مدرسة الدرجة الثالثة",
+      "latitude": 19.1612,
+      "longitude": 30.4654,
+      "image_path": "assets/images/14.jpeg",
+      "services": [
+        "فحص الملاريا",
+        "فحص الدم (CBC)",
+        "فحص السكر والتراكمي"
+      ],
+      "specialties": [
+        "عيادات تخصصية",
+        "قسم الأطفال"
+      ]
+    },
+    {
+      "facility_id": 15,
+      "facility_name": "مستشفى الجوارح للعيون",
+      "facility_type": "مستشفى عيون",
+      "phone": "0911223399",
+      "working_hours": "8:00ص - 4:00م",
+      "sector": "خاص",
+      "neighborhood": "حي الدرجة الثالثة",
+      "street": "شارع الدرجة الثالثة",
+      "landmark": "قرب مسجد أنصار السنة المحمدية",
+      "latitude": 19.1625,
+      "longitude": 30.4671,
+      "image_path": "assets/images/15.jpeg",
+      "services": [
+        "فحص الدم (CBC)",
+        "فحص السكر والتراكمي",
+        "تحليل البول والبراز"
+      ],
+      "specialties": [
+        "عيادات تخصصية",
+        "الجراحة العامة"
+      ]
+    },
+    {
+      "facility_id": 16,
+      "facility_name": "مستشفى الشمال التخصصي",
+      "facility_type": "مستشفى",
+      "phone": "0111668603",
+      "working_hours": "24 ساعة",
+      "sector": "خاص",
+      "neighborhood": "حي دنقلا شمال",
+      "street": "شارع السوق",
+      "landmark": "قرب ديوان الزكاة وستوديو الرماح",
+      "latitude": 19.1754,
+      "longitude": 30.4708,
+      "image_path": "assets/images/16.jpeg",
+      "services": [
+        "فحص الغازات في الدم",
+        "فحص مؤشر الالتهاب",
+        "فحص انزيم نوبة القلب",
+        "فحوصات الكولسترول"
+      ],
+      "specialties": [
+        "الجراحة العامة",
+        "جراحة الأطفال",
+        "العناية الوسطية والمكثفة"
+      ]
+    },
+    {
+      "facility_id": 17,
+      "facility_name": "صيدلية الأمراء",
+      "facility_type": "صيدلية",
+      "phone": "0998829733",
+      "working_hours": "8:00ص - 10:00م",
+      "sector": "خاص",
+      "neighborhood": "حي الامتداد",
+      "street": "شارع المستشفى",
+      "landmark": "قرب سوبرماركت صقر الخليج",
+      "latitude": 19.1729,
+      "longitude": 30.4721,
+      "image_path": "assets/images/17.jpeg",
+      "services": [
+        "أدوية طبية",
+        "مستحضرات تجميل"
+      ],
+      "specialties": [
+        "صيدلية"
+      ]
+    },
+    {
+      "facility_id": 18,
+      "facility_name": "صيدلية النيل الحديثة",
+      "facility_type": "صيدلية",
+      "phone": "0123456711",
+      "working_hours": "24 ساعة",
+      "sector": "خاص",
+      "neighborhood": "حي النصر",
+      "street": "شارع المستشفى",
+      "landmark": "امتداد شارع النيل الرئيسي",
+      "latitude": 19.1708,
+      "longitude": 30.4752,
+      "image_path": "assets/images/18.jpeg",
+      "services": [
+        "أدوية طبية",
+        "مستحضرات تجميل"
+      ],
+      "specialties": [
+        "صيدلية"
+      ]
+    }
+  ]
+}
