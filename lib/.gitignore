@@ -1,0 +1,47 @@
+# ملفات وأدلة توليد Flutter/Dart
+.dart_tool/
+.packages
+build/
+.flutter-plugins
+.flutter-plugins-dependencies
+.pub-cache/
+.pub/
+/pubspec.lock
+
+# ملفات IDE
+.idea/
+.vscode/
+*.iml
+*.iws
+
+# ملفات نظام التشغيل
+.DS_Store
+Thumbs.db
+
+# مخرجات البناء الخاصة بكل منصة
+**/android/.gradle
+**/android/captures/
+**/android/gradlew
+**/android/gradlew.bat
+**/android/local.properties
+**/android/**/GeneratedPluginRegistrant.java
+
+**/ios/Flutter/.last_build_id
+**/ios/Flutter/Generated.xcconfig
+**/ios/Flutter/flutter_export_environment.sh
+**/ios/Pods/
+**/ios/.symlinks/
+
+**/macos/Flutter/GeneratedPluginRegistrant.swift
+**/macos/Flutter/ephemeral
+
+**/linux/flutter/generated_plugin_registrant.cc
+**/linux/flutter/generated_plugin_registrant.h
+**/linux/flutter/generated_plugins.cmake
+
+# ملفات تغطية الاختبار
+coverage/
+
+# ملفات مؤقتة
+*.log
+
