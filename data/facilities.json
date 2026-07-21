@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-21T12:00:07Z",
+  "last_updated": "2026-07-21T12:17:02Z",
   "facilities": [
     {
       "facility_id": 1,
@@ -251,6 +251,7 @@
       "neighborhood": "حي الامتداد",
       "street": "شارع المستشفى الرئيسي",
       "landmark": "وسط المدينة الجغرافي",
+      "maps_url": "https://maps.app.goo.gl/R6UAuw3Kr3dNJ4WB7?g_st=ac",
       "image_path": "assets/images/12.jpeg",
       "services": [
         "عمليات جراحية",
@@ -260,8 +261,7 @@
       "specialties": [
         "الجراحة العامة",
         "العناية الوسطية والمكثفة"
-      ],
-      "maps_url": "https://www.google.com/maps/search/?api=1&query=19.1725,30.4732"
+      ]
     },
     {
       "facility_id": 13,
@@ -425,11 +425,6 @@
       "title": "قناة طبية موثوقة",
       "description": "نصائح وشروحات طبية موثوقة باللغة العربية.",
       "youtube_url": "https://www.youtube.com/results?search_query=%D9%86%D8%B5%D8%A7%D8%A6%D8%AD+%D8%B7%D8%A8%D9%8A%D8%A9+%D9%85%D9%88%D8%AB%D9%88%D9%82%D8%A9"
-    },
-    {
-      "title": "اشرب كمية كافية من الماء",
-      "description": "مياه نقية وضاقية صالحة للشرب",
-      "youtube_url": ""
     }
   ],
   "support_whatsapp": "0999905257"
