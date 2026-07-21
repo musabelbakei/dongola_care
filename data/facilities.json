@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-21T12:23:24Z",
+  "last_updated": "2026-07-21T12:24:42Z",
   "facilities": [
     {
       "facility_id": 1,
@@ -144,7 +144,7 @@
       "phone": "0912345678",
       "working_hours": "24 ساعة",
       "sector": "خاص",
-      "neighborhood": "حي الامتداد",
+      "neighborhood": "حي",
       "street": "شارع المستشفى التخصصي",
       "landmark": "قرب المستشفى التخصصي",
       "maps_url": "https://maps.app.goo.gl/gWYCjUrGyeHpcffs6?g_st=ac",
