@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-21T10:12:25Z",
+  "last_updated": "2026-07-21T12:00:07Z",
   "facilities": [
     {
       "facility_id": 1,
@@ -425,6 +425,11 @@
       "title": "قناة طبية موثوقة",
       "description": "نصائح وشروحات طبية موثوقة باللغة العربية.",
       "youtube_url": "https://www.youtube.com/results?search_query=%D9%86%D8%B5%D8%A7%D8%A6%D8%AD+%D8%B7%D8%A8%D9%8A%D8%A9+%D9%85%D9%88%D8%AB%D9%88%D9%82%D8%A9"
+    },
+    {
+      "title": "اشرب كمية كافية من الماء",
+      "description": "مياه نقية وضاقية صالحة للشرب",
+      "youtube_url": ""
     }
   ],
   "support_whatsapp": "0999905257"
