@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-21T12:20:42Z",
+  "last_updated": "2026-07-21T12:23:24Z",
   "facilities": [
     {
       "facility_id": 1,
@@ -151,7 +151,8 @@
       "image_path": "assets/images/7.jpeg",
       "services": [
         "أدوية طبية",
-        "مستحضرات تجميل"
+        "مستحضرات تجميل",
+        "مستلزمات أطفال"
       ],
       "specialties": [
         "صيدلية"
