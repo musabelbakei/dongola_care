@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-20T08:03:04Z",
+  "last_updated": "2026-07-21T06:45:47Z",
   "facilities": [
     {
       "facility_id": 1,
@@ -33,7 +33,7 @@
       "phone": "0960333144",
       "working_hours": "24 ساعة",
       "sector": "خاص",
-      "neighborhood": "الحي الأوسط",
+      "neighborhood": "حي الامتداد",
       "street": "تقاطع المستشفى التخصصي والعسكري",
       "landmark": "قرب التقاطع الرئيسي",
       "latitude": 19.1719,
