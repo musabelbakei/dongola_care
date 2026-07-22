@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-22T07:11:40Z",
+  "last_updated": "2026-07-22T07:42:11Z",
   "facilities": [
     {
       "facility_id": 1,
@@ -251,17 +251,18 @@
       "neighborhood": "حي الامتداد",
       "street": "شارع المستشفى الرئيسي",
       "landmark": "وسط المدينة الجغرافي",
+      "maps_url": "https://maps.app.goo.gl/e6jG81cXYfEk6uaC8?g_st=ac",
       "image_path": "assets/images/12.jpeg",
       "services": [
         "عمليات جراحية",
         "فحص الغازات في الدم",
-        "فحص مؤشر الالتهاب"
+        "فحص مؤشر الالتهاب",
+        "فحص سكر"
       ],
       "specialties": [
         "الجراحة العامة",
         "العناية الوسطية والمكثفة"
-      ],
-      "maps_url": "https://www.google.com/maps/search/?api=1&query=19.1725,30.4732"
+      ]
     },
     {
       "facility_id": 13,
