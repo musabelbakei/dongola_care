@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-27T11:07:11Z",
+  "last_updated": "2026-07-27T11:10:33Z",
   "facilities": [
     {
       "facility_id": 1,
@@ -210,6 +210,7 @@
       "neighborhood": "ارتدي شمال",
       "street": "الشارع العام",
       "landmark": "جوار مدرسة الزهراء الأساسية للبنات",
+      "maps_url": "https://maps.app.goo.gl/Yp5PR5Q6HGo1iZpq7?g_st=aw",
       "image_path": "assets/images/10.jpeg",
       "services": [
         "فحص الملاريا",
@@ -218,8 +219,7 @@
       ],
       "specialties": [
         "عيادات تخصصية"
-      ],
-      "maps_url": "https://www.google.com/maps/search/?api=1&query=19.1945,30.4581"
+      ]
     },
     {
       "facility_id": 11,
