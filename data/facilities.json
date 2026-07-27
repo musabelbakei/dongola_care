@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-27T11:10:33Z",
+  "last_updated": "2026-07-27T11:12:37Z",
   "facilities": [
     {
       "facility_id": 1,
@@ -317,6 +317,7 @@
       "neighborhood": "حي الدرجة الثالثة",
       "street": "شارع الدرجة الثالثة",
       "landmark": "قرب مسجد أنصار السنة المحمدية",
+      "maps_url": "https://maps.app.goo.gl/FGUMkAvS8N6Qhiqv8",
       "image_path": "assets/images/15.jpeg",
       "services": [
         "فحص الدم (CBC)",
@@ -326,8 +327,7 @@
       "specialties": [
         "عيادات تخصصية",
         "الجراحة العامة"
-      ],
-      "maps_url": "https://www.google.com/maps/search/?api=1&query=19.1625,30.4671"
+      ]
     },
     {
       "facility_id": 16,
