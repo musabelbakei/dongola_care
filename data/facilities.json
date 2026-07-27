@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-27T07:06:46Z",
+  "last_updated": "2026-07-27T07:07:32Z",
   "facilities": [
     {
       "facility_id": 1,
@@ -56,6 +56,7 @@
       "neighborhood": "الحي الأوسط",
       "street": "تقاطع العسكري",
       "landmark": "غرب شركة الخندقاوي",
+      "maps_url": "https://maps.app.goo.gl/5vo5c1CThXFxxrJV7?g_st=aw",
       "image_path": "assets/images/3.jpeg",
       "services": [
         "فحص الدم (CBC)",
@@ -67,8 +68,7 @@
         "عيادات تخصصية",
         "قسم الأطفال",
         "صيدلية"
-      ],
-      "maps_url": "https://www.google.com/maps/search/?api=1&query=19.1715,30.4745"
+      ]
     },
     {
       "facility_id": 4,
