@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-27T07:25:35Z",
+  "last_updated": "2026-07-27T11:07:11Z",
   "facilities": [
     {
       "facility_id": 1,
@@ -167,6 +167,7 @@
       "neighborhood": "حي الامتداد",
       "street": "شارع المستشفى",
       "landmark": "جوار المستشفى التخصصي",
+      "maps_url": "https://maps.app.goo.gl/4fEn51P2DHnYppbk8",
       "image_path": "assets/images/8.jpeg",
       "services": [
         "فحص وظائف الكبد",
@@ -177,8 +178,7 @@
       ],
       "specialties": [
         "معمل فحوصات"
-      ],
-      "maps_url": "https://www.google.com/maps/search/?api=1&query=19.1726,30.4729"
+      ]
     },
     {
       "facility_id": 9,
