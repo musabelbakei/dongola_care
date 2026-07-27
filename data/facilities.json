@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-27T07:19:28Z",
+  "last_updated": "2026-07-27T07:21:58Z",
   "facilities": [
     {
       "facility_id": 1,
@@ -231,6 +231,7 @@
       "neighborhood": "حي الامتداد",
       "street": "شارع المستشفى",
       "landmark": "قرب معمل المجتبى",
+      "maps_url": "https://maps.app.goo.gl/CocWvtsKJoJ2fpPDA?g_st=aw",
       "image_path": "assets/images/11.jpeg",
       "services": [
         "أدوية طبية",
@@ -238,8 +239,7 @@
       ],
       "specialties": [
         "صيدلية"
-      ],
-      "maps_url": "https://www.google.com/maps/search/?api=1&query=19.1728,30.4725"
+      ]
     },
     {
       "facility_id": 12,
