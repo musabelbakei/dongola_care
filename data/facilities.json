@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-27T06:49:55Z",
+  "last_updated": "2026-07-27T06:56:52Z",
   "facilities": [
     {
       "facility_id": 1,
@@ -127,7 +127,7 @@
       "neighborhood": "حي الدرجة الثانية",
       "street": "شارع الفنادق",
       "landmark": "جوار فندق جوهرة ريفان",
-      "maps_url": "https://www.google.com/maps/search/?api=1&query=19.1642,30.4695",
+      "maps_url": "https://maps.app.goo.gl/PQTVT3QtUqKfNpkH8?g_st=ac",
       "image_path": "assets/images/6.jpeg",
       "services": [
         "أدوية طبية",
