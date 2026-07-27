@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-27T06:56:52Z",
+  "last_updated": "2026-07-27T07:04:25Z",
   "facilities": [
     {
       "facility_id": 1,
@@ -147,6 +147,7 @@
       "neighborhood": "حي الامتداد",
       "street": "شارع المستشفى التخصصي",
       "landmark": "قرب المستشفى التخصصي",
+      "maps_url": "https://maps.app.goo.gl/bgC8zUfHAyLLCvZZA?g_st=aw",
       "image_path": "assets/images/7.jpeg",
       "services": [
         "أدوية طبية",
@@ -154,8 +155,7 @@
       ],
       "specialties": [
         "صيدلية"
-      ],
-      "maps_url": "https://www.google.com/maps/search/?api=1&query=19.1724,30.4731"
+      ]
     },
     {
       "facility_id": 8,
