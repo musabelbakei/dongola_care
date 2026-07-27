@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-27T06:20:20Z",
+  "last_updated": "2026-07-27T06:49:55Z",
   "facilities": [
     {
       "facility_id": 1,
@@ -123,7 +123,7 @@
       "facility_type": "صيدلية",
       "phone": "0111245600",
       "working_hours": "24 ساعة",
-      "sector": "عام",
+      "sector": "خاص",
       "neighborhood": "حي الدرجة الثانية",
       "street": "شارع الفنادق",
       "landmark": "جوار فندق جوهرة ريفان",
