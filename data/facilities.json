@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-27T11:15:50Z",
+  "last_updated": "2026-07-27T11:19:03Z",
   "facilities": [
     {
       "facility_id": 1,
@@ -103,6 +103,7 @@
       "neighborhood": "حي أقجة فوق",
       "street": "زلط كلية التقانة",
       "landmark": "قرب كلية التقانة والعلوم الصحية",
+      "maps_url": "https://maps.app.goo.gl/8r8QdZkN2sZby3ow5",
       "image_path": "assets/images/5.jpeg",
       "services": [
         "موجات صوتية دبلر ملون",
@@ -114,8 +115,7 @@
         "قسم النساء والتوليد",
         "عيادات تخصصية",
         "الجراحة العامة"
-      ],
-      "maps_url": "https://www.google.com/maps/search/?api=1&query=19.1558,30.4852"
+      ]
     },
     {
       "facility_id": 6,
