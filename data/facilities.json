@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-27T11:12:37Z",
+  "last_updated": "2026-07-27T11:14:17Z",
   "facilities": [
     {
       "facility_id": 1,
@@ -339,6 +339,7 @@
       "neighborhood": "حي دنقلا شمال",
       "street": "شارع السوق",
       "landmark": "قرب ديوان الزكاة وستوديو الرماح",
+      "maps_url": "https://maps.app.goo.gl/sPq4v1xq82ZkuxNXA?g_st=aw",
       "image_path": "assets/images/16.jpeg",
       "services": [
         "فحص الغازات في الدم",
@@ -350,8 +351,7 @@
         "الجراحة العامة",
         "جراحة الأطفال",
         "العناية الوسطية والمكثفة"
-      ],
-      "maps_url": "https://www.google.com/maps/search/?api=1&query=19.1754,30.4708"
+      ]
     },
     {
       "facility_id": 17,
