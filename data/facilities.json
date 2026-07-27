@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-27T11:14:17Z",
+  "last_updated": "2026-07-27T11:15:50Z",
   "facilities": [
     {
       "facility_id": 1,
@@ -295,6 +295,7 @@
       "neighborhood": "حي الدرجة الثالثة",
       "street": "شارع الردمية",
       "landmark": "قرب مدرسة الدرجة الثالثة",
+      "maps_url": "https://maps.app.goo.gl/PuYNTRJELYwPbFsq9",
       "image_path": "assets/images/14.jpeg",
       "services": [
         "فحص الملاريا",
@@ -304,8 +305,7 @@
       "specialties": [
         "عيادات تخصصية",
         "قسم الأطفال"
-      ],
-      "maps_url": "https://www.google.com/maps/search/?api=1&query=19.1612,30.4654"
+      ]
     },
     {
       "facility_id": 15,
