@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-27T07:04:25Z",
+  "last_updated": "2026-07-27T07:06:46Z",
   "facilities": [
     {
       "facility_id": 1,
@@ -35,6 +35,7 @@
       "neighborhood": "الحي الأوسط",
       "street": "تقاطع المستشفى التخصصي والعسكري",
       "landmark": "قرب التقاطع الرئيسي",
+      "maps_url": "https://maps.app.goo.gl/9w4uPUkrdM6DfYLu7?g_st=aw",
       "image_path": "assets/images/2.jpeg",
       "services": [
         "أدوية طبية",
@@ -43,8 +44,7 @@
       ],
       "specialties": [
         "صيدلية"
-      ],
-      "maps_url": "https://www.google.com/maps/search/?api=1&query=19.1719,30.4739"
+      ]
     },
     {
       "facility_id": 3,
