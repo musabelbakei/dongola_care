@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-27T07:07:32Z",
+  "last_updated": "2026-07-27T07:19:28Z",
   "facilities": [
     {
       "facility_id": 1,
@@ -80,6 +80,7 @@
       "neighborhood": "حي السوق",
       "street": "تقاطع الملتقى",
       "landmark": "قرب السوق الرئيسي",
+      "maps_url": "https://maps.app.goo.gl/pMXd9v71fp4948ZXA?g_st=aw",
       "image_path": "assets/images/4.jpeg",
       "services": [
         "فحص وظائف الكبد",
@@ -90,8 +91,7 @@
       "specialties": [
         "معمل فحوصات",
         "عيادات تخصصية"
-      ],
-      "maps_url": "https://www.google.com/maps/search/?api=1&query=19.1731,30.4722"
+      ]
     },
     {
       "facility_id": 5,
