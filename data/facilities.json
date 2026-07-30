@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-30T09:16:49Z",
+  "last_updated": "2026-07-30T09:18:07Z",
   "facilities": [
     {
       "facility_id": 1,
@@ -8,7 +8,7 @@
       "phone": "0129047600",
       "working_hours": "8:00ص - 3:00م",
       "sector": "خاص",
-      "neighborhood": "الحي السوق",
+      "neighborhood": "حي السوق",
       "street": "غرب صيدلية الملتقى",
       "landmark": "جوار مكتبة سانتود",
       "maps_url": "https://www.google.com/maps/search/?api=1&query=19.1722,30.4734",
