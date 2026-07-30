@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-27T11:19:03Z",
+  "last_updated": "2026-07-30T09:16:49Z",
   "facilities": [
     {
       "facility_id": 1,
@@ -8,9 +8,10 @@
       "phone": "0129047600",
       "working_hours": "8:00ص - 3:00م",
       "sector": "خاص",
-      "neighborhood": "الحي الأوسط",
+      "neighborhood": "الحي السوق",
       "street": "غرب صيدلية الملتقى",
       "landmark": "جوار مكتبة سانتود",
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=19.1722,30.4734",
       "image_path": "assets/images/1.jpeg",
       "services": [
         "فحص وظائف الكبد",
@@ -22,8 +23,7 @@
         "معمل فحوصات",
         "قسم الاسنان",
         "قسم النساء والتوليد"
-      ],
-      "maps_url": "https://www.google.com/maps/search/?api=1&query=19.1722,30.4734"
+      ]
     },
     {
       "facility_id": 2,
@@ -443,5 +443,6 @@
       "youtube_url": "https://www.youtube.com/results?search_query=%D9%86%D8%B5%D8%A7%D8%A6%D8%AD%20%D8%B7%D8%A8%D9%8A%D8%A9%20%D8%A7%D9%84%D9%88%D9%82%D8%A7%D9%8A%D8%A9%20%D9%85%D9%86%20%D8%A7%D9%84%D8%A3%D9%85%D8%B1%D8%A7%D8%B6%20%D8%A7%D9%84%D9%85%D8%B9%D8%AF%D9%8A%D8%A9"
     }
   ],
-  "support_whatsapp": "0999905257"
+  "support_whatsapp": "0999905257",
+  "ambulances": []
 }
