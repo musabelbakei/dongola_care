@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-09T12:38:05Z",
+  "last_updated": "2026-08-09T12:43:17Z",
   "facilities": [
     {
       "facility_id": 1,
@@ -404,6 +404,28 @@
       "street": "المستشفى العسكري",
       "landmark": "جنوب المستشفى العسكري",
       "maps_url": "",
+      "image_path": "assets/images/19.jpeg",
+      "services": [
+        "كل ما يخص مرضى السكري",
+        "كل ما يخص مرضى الضغط",
+        "تجهيز المستشفيات والمراكز الصحية",
+        "تهجيز كل عمليات العظام",
+        "توجد ستات العظام",
+        "كل ما يخص العناية المركزة"
+      ],
+      "specialties": []
+    },
+    {
+      "facility_id": 19,
+      "facility_name": "هيام مديكال",
+      "facility_type": "معدات طبية",
+      "phone": "0123233637 -0123082193",
+      "working_hours": "24 ساعة",
+      "sector": "خاص",
+      "neighborhood": "حي النصر",
+      "street": "المستشفى العسكري",
+      "landmark": "جنوب المستشفى العسكري",
+      "maps_url": "https://maps.app.goo.gl/px5it3s16T8dGtU88?g_st=aw",
       "image_path": "assets/images/19.jpeg",
       "services": [
         "كل ما يخص مرضى السكري",
