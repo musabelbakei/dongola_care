@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-09T12:49:34Z",
+  "last_updated": "2026-08-09T12:50:15Z",
   "facilities": [
     {
       "facility_id": 1,
@@ -12,7 +12,7 @@
       "street": "غرب صيدلية الملتقى",
       "landmark": "جوار مكتبة سانتود",
       "maps_url": "https://www.google.com/maps/search/?api=1&query=19.1722,30.4734",
-      "image_path": "assets/images/2.jpeg",
+      "image_path": "assets/images/1.jpeg",
       "services": [
         "فحص وظائف الكبد",
         "فحص الملاريا",
